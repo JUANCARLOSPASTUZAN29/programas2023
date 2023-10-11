@@ -1,0 +1,17 @@
+ body{
+    background-color: rgb(255, 250, 93);
+    color: rgb(14, 14, 14);
+    text-align: center;
+ }
+ header{
+   background-color: black;
+   text-align: center;
+   padding: 35px;
+   color: aliceblue;
+ }
+
+.form-control{
+   padding: 50px;
+   content: 50px;
+   text-align: left;
+   }
